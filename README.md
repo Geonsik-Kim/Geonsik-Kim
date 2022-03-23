@@ -1,12 +1,8 @@
-### 😄 4년차 퍼블리셔! 프론트엔드 개발자로 성장하기!
-
-
-<br>
-
 🌴 소개
 ---
 * KG아이티뱅크 평생교육원 / 컴퓨터공학과 / 학사과정 이수 / 2021
-* HTML, CSS3, JQUERY, SASS를 다룰 줄 압니다.
+* HTML, CSS3, Javascript, Jquery, SASS를 다룰 줄 압니다.
+* Zeplin, Figma 등 프로토타이핑 툴을 활용하여 협업이 가능합니다.
 * JAVASCRIPT, REACT를 공부 중 입니다.
 
 <br>
